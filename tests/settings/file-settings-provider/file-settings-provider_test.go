@@ -1,7 +1,7 @@
 package file_settings_provider_tests
 
 import (
-	file_settings_provider "simple-hosting/go.common/settings/file-settings-provider"
+	file_settings_provider "simple-hosting/go-common/settings/file-settings-provider"
 	"testing"
 )
 

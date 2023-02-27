@@ -1,4 +1,4 @@
-module simple-hosting/go.common
+module simple-hosting/go-common
 
 go 1.20
 
